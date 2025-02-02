@@ -1,4 +1,3 @@
-
 Here’s a professional and comprehensive README for your company Tech2d:
 
 Tech2d - The Future of Software Innovation
@@ -35,7 +34,7 @@ Reliability: We deliver quality solutions on time and within budget.
 How to Connect With Us
 We’d love to hear from you! Whether you’re looking for a partner for your next big project or have questions about our services, reach out to us:
 
-Website: www.tech2d.com (Update with your actual URL)
+Website: www.tech2d.com
 Email: contact@tech2d.com
 
 Get Started Today
